@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
 | [1486-xor-operation-in-an-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1486-xor-operation-in-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shashwat-70/leetcode-progress/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashwat-70/leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -16,5 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
 | [1486-xor-operation-in-an-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1486-xor-operation-in-an-array) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
