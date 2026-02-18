@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashwat-70/leetcode-progress/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
