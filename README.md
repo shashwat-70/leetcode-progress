@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shashwat-70/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat-70/leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1470-shuffle-the-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1470-shuffle-the-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashwat-70/leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/shashwat-70/leetcode-progress/tree/master/3637-trionic-array-i) |
 ## Math
