@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1470-shuffle-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shashwat-70/leetcode-progress/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashwat-70/leetcode-progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashwat-70/leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/shashwat-70/leetcode-progress/tree/master/3637-trionic-array-i) |
 ## Math
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1486-xor-operation-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashwat-70/leetcode-progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashwat-70/leetcode-progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shashwat-70/leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
