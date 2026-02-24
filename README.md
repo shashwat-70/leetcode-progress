@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/shashwat-70/leetcode-progress/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashwat-70/leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shashwat-70/leetcode-progress/tree/master/3783-mirror-distance-of-an-integer) |
+| [3848-check-digitorial-permutation](https://github.com/shashwat-70/leetcode-progress/tree/master/3848-check-digitorial-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shashwat-70/leetcode-progress/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Counting
+|  |
+| ------- |
+| [3848-check-digitorial-permutation](https://github.com/shashwat-70/leetcode-progress/tree/master/3848-check-digitorial-permutation) |
 <!---LeetCode Topics End-->
