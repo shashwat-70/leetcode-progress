@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shashwat-70/leetcode-progress/tree/master/0055-jump-game) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
