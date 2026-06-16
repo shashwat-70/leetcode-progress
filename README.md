@@ -75,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shashwat-70/leetcode-progress/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shashwat-70/leetcode-progress/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0148-sort-list) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shashwat-70/leetcode-progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-70/leetcode-progress/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/shashwat-70/leetcode-progress/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/shashwat-70/leetcode-progress/tree/master/2000-reverse-prefix-of-word) |
@@ -112,9 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shashwat-70/leetcode-progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-70/leetcode-progress/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shashwat-70/leetcode-progress/tree/master/0021-merge-two-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
