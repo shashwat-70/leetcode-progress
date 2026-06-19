@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shashwat-70/leetcode-progress/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shashwat-70/leetcode-progress/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashwat-70/leetcode-progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashwat-70/leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
