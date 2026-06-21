@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shashwat-70/leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shashwat-70/leetcode-progress/tree/master/0202-happy-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashwat-70/leetcode-progress/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shashwat-70/leetcode-progress/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/shashwat-70/leetcode-progress/tree/master/1688-count-of-matches-in-tournament) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shashwat-70/leetcode-progress/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
