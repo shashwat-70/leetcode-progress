@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/shashwat-70/leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shashwat-70/leetcode-progress/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashwat-70/leetcode-progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashwat-70/leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
+| [1833-maximum-ice-cream-bars](https://github.com/shashwat-70/leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shashwat-70/leetcode-progress/tree/master/0055-jump-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/shashwat-70/leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shashwat-70/leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
