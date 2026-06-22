@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashwat-70/leetcode-progress/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shashwat-70/leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shashwat-70/leetcode-progress/tree/master/0202-happy-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashwat-70/leetcode-progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shashwat-70/leetcode-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/shashwat-70/leetcode-progress/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shashwat-70/leetcode-progress/tree/master/0025-reverse-nodes-in-k-group) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shashwat-70/leetcode-progress/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shashwat-70/leetcode-progress/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shashwat-70/leetcode-progress/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0143-reorder-list) |
