@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/shashwat-70/leetcode-progress/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/shashwat-70/leetcode-progress/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
@@ -181,5 +182,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shashwat-70/leetcode-progress/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0707-design-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shashwat-70/leetcode-progress/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
