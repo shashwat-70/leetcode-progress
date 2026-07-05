@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashwat-70/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shashwat-70/leetcode-progress/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shashwat-70/leetcode-progress/tree/master/0056-merge-intervals) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashwat-70/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shashwat-70/leetcode-progress/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shashwat-70/leetcode-progress/tree/master/0070-climbing-stairs) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/shashwat-70/leetcode-progress/tree/master/0141-linked-list-cycle) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shashwat-70/leetcode-progress/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/shashwat-70/leetcode-progress/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0234-palindrome-linked-list) |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shashwat-70/leetcode-progress/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
