@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shashwat-70/leetcode-progress/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat-70/leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/shashwat-70/leetcode-progress/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-70/leetcode-progress/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/shashwat-70/leetcode-progress/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-70/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashwat-70/leetcode-progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/shashwat-70/leetcode-progress/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashwat-70/leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2000-reverse-prefix-of-word](https://github.com/shashwat-70/leetcode-progress/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
@@ -205,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
