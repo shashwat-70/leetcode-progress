@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shashwat-70/leetcode-progress/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shashwat-70/leetcode-progress/tree/master/3783-mirror-distance-of-an-integer) |
 | [3848-check-digitorial-permutation](https://github.com/shashwat-70/leetcode-progress/tree/master/3848-check-digitorial-permutation) |
+| [3945-digit-frequency-score](https://github.com/shashwat-70/leetcode-progress/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-70/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shashwat-70/leetcode-progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shashwat-70/leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/shashwat-70/leetcode-progress/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
