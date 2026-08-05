@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shashwat-70/leetcode-progress/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwat-70/leetcode-progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat-70/leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/shashwat-70/leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/shashwat-70/leetcode-progress/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shashwat-70/leetcode-progress/tree/master/0503-next-greater-element-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shashwat-70/leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
 |  |
