@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shashwat-70/leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shashwat-70/leetcode-progress/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/shashwat-70/leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/shashwat-70/leetcode-progress/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashwat-70/leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shashwat-70/leetcode-progress/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/shashwat-70/leetcode-progress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/shashwat-70/leetcode-progress/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/shashwat-70/leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shashwat-70/leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-70/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [3848-check-digitorial-permutation](https://github.com/shashwat-70/leetcode-progress/tree/master/3848-check-digitorial-permutation) |
 ## Two Pointers
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shashwat-70/leetcode-progress/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/shashwat-70/leetcode-progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
