@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shashwat-70/leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shashwat-70/leetcode-progress/tree/master/0055-jump-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0061-rotate-list) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shashwat-70/leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/shashwat-70/leetcode-progress/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/shashwat-70/leetcode-progress/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashwat-70/leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
