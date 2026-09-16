@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashwat-70/leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-70/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat-70/leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashwat-70/leetcode-progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2000-reverse-prefix-of-word](https://github.com/shashwat-70/leetcode-progress/tree/master/2000-reverse-prefix-of-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shashwat-70/leetcode-progress/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shashwat-70/leetcode-progress/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -275,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shashwat-70/leetcode-progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat-70/leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashwat-70/leetcode-progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
