@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/shashwat-70/leetcode-progress/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0766-toeplitz-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shashwat-70/leetcode-progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1470-shuffle-the-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shashwat-70/leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shashwat-70/leetcode-progress/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shashwat-70/leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shashwat-70/leetcode-progress/tree/master/0700-search-in-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shashwat-70/leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shashwat-70/leetcode-progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat-70/leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashwat-70/leetcode-progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
