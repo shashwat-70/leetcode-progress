@@ -49,14 +49,33 @@ class Solution {
     //     return root;
     // }
 
-    public Node connect(Node root) {
-        if(root==null || root.left==null){
-            return root;
+    //Optimal recursive solution
+    // public Node connect(Node root) {
+    //     if(root==null || root.left==null){
+    //         return root;
+    //     }
+    //     root.left.next=root.right;
+    //     if(root.next!=null) root.right.next=root.next.left;
+    //     connect(root.left);
+    //     connect(root.right);
+    //     return root;
+    // }
+
+    //Optimal iterative solution
+    public Node connect(Node root){
+        if(root==null){
+            return null;
         }
-        root.left.next=root.right;
-        if(root.next!=null) root.right.next=root.next.left;
-        connect(root.left);
-        connect(root.right);
+        Node leftt=root;
+        while(leftt.left!=null){
+            Node curr=leftt;
+            while(curr!=null){
+                curr.left.next=curr.right;
+                if(curr.next!=null)    curr.right.next=curr.next.left;
+                curr=curr.next;
+            }
+            leftt=leftt.left;
+        }
         return root;
     }
 }
