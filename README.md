@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shashwat-70/leetcode-progress/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashwat-70/leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-70/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
+| [1208-get-equal-substrings-within-budget](https://github.com/shashwat-70/leetcode-progress/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat-70/leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashwat-70/leetcode-progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2000-reverse-prefix-of-word](https://github.com/shashwat-70/leetcode-progress/tree/master/2000-reverse-prefix-of-word) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shashwat-70/leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shashwat-70/leetcode-progress/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/shashwat-70/leetcode-progress/tree/master/1208-get-equal-substrings-within-budget) |
 | [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shashwat-70/leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shashwat-70/leetcode-progress/tree/master/0700-search-in-a-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/shashwat-70/leetcode-progress/tree/master/1208-get-equal-substrings-within-budget) |
 ## Binary Tree
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shashwat-70/leetcode-progress/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/shashwat-70/leetcode-progress/tree/master/1208-get-equal-substrings-within-budget) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shashwat-70/leetcode-progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat-70/leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashwat-70/leetcode-progress/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
