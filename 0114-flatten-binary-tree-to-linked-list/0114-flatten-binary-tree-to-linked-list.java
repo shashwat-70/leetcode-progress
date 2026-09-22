@@ -14,22 +14,18 @@
  * }
  */
 class Solution {
-    static ArrayDeque<TreeNode> queue=new ArrayDeque<>();
     public void flatten(TreeNode root) {
-        queue.clear();
-        traverse(root);
-        while(!queue.isEmpty()){
-            TreeNode node=queue.remove();
-            node.right=queue.peek();
-            node.left=null;
-        }
-    }
-    private void traverse(TreeNode root){
-        if(root==null){
-            return;
-        }
-        queue.add(root);
-        traverse(root.left);
-        traverse(root.right);
+        while(root!=null){
+            if(root.left!=null){
+                TreeNode temp=root.left;
+                while(temp.right!=null){
+                    temp=temp.right;
+                }
+                temp.right=root.right;
+                root.right=root.left;
+                root.left=null;
+            }
+            root=root.right;
+        }       
     }
 }
