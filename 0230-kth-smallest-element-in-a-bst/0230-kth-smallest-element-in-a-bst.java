@@ -14,23 +14,26 @@
  * }
  */
 class Solution {
+    int count=0;
     public int kthSmallest(TreeNode root, int k) {
-        count=0;
-        return kthSmall(root,k).val;
-    }
-
-    static int count;
-    public TreeNode kthSmall(TreeNode root, int k) {
         if(root==null){
-            return null;
+            return -1;
         }
-        TreeNode left= kthSmall(root.left,k);
-        if(left!=null)  return left;
 
-        //The ++count means: I have now visited one more node.
-        //If this is the kth node: return root;
-        if(++count==k)  return root;
-        
-        return kthSmall(root.right,k);
+        int l=kthSmallest(root.left,k);
+        if(l!=-1){
+            return l;
+        }
+
+        if(++count==k){
+            return root.val;
+        }
+
+        int r=kthSmallest(root.right,k);
+        if(r!=-1){
+            return r;
+        }
+
+        return -1;
     }
 }
