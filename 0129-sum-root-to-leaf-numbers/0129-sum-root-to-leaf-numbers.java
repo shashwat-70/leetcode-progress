@@ -14,22 +14,22 @@
  * }
  */
 class Solution {
-    static ArrayList<String> nums;
+    static ArrayList<Integer> nums;
     public int sumNumbers(TreeNode root) {
         nums=new ArrayList<>();
-        traverse(root,""+root.val);
+        traverse(root,root.val);
         int sum=0;
         for(int i=0;i<nums.size();i++){
-            sum+=Integer.parseInt(nums.get(i));
+            sum+=nums.get(i);
         }
         return sum;
     }
-    public static void traverse(TreeNode root,String s){
+    public static void traverse(TreeNode root,int s){
         if(root.left==null && root.right==null){
             nums.add(s);
             return;
         }
-        if(root.left!=null) traverse(root.left,s+root.left.val);
-        if(root.right!=null)    traverse(root.right,s+root.right.val);
+        if(root.left!=null) traverse(root.left,s*10+root.left.val);
+        if(root.right!=null)    traverse(root.right,s*10+root.right.val);
     }
 }
