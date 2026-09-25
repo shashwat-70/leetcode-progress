@@ -14,18 +14,23 @@
  * }
  */
 class Solution {
-    static ArrayList<Integer> arr;
     public int kthSmallest(TreeNode root, int k) {
-        arr=new ArrayList<Integer>();
-        inorderTraversal(root);
-        return arr.get(k-1);
+        count=0;
+        return kthSmall(root,k).val;
     }
-    public static void inorderTraversal(TreeNode root){
+
+    static int count;
+    public TreeNode kthSmall(TreeNode root, int k) {
         if(root==null){
-            return;
+            return null;
         }
-        inorderTraversal(root.left);
-        arr.add(root.val);
-        inorderTraversal(root.right);
+        TreeNode left= kthSmall(root.left,k);
+        if(left!=null)  return left;
+
+        //The ++count means: I have now visited one more node.
+        //If this is the kth node: return root;
+        if(++count==k)  return root;
+        
+        return kthSmall(root.right,k);
     }
 }
