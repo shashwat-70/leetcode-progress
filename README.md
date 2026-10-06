@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/shashwat-70/leetcode-progress/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashwat-70/leetcode-progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shashwat-70/leetcode-progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1470-shuffle-the-array) |
