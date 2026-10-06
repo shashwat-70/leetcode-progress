@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shashwat-70/leetcode-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shashwat-70/leetcode-progress/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/shashwat-70/leetcode-progress/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/shashwat-70/leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shashwat-70/leetcode-progress/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/shashwat-70/leetcode-progress/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/shashwat-70/leetcode-progress/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Counting
 |  |
