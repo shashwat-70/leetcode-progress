@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/shashwat-70/leetcode-progress/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/shashwat-70/leetcode-progress/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/shashwat-70/leetcode-progress/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/shashwat-70/leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/shashwat-70/leetcode-progress/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashwat-70/leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/shashwat-70/leetcode-progress/tree/master/0925-long-pressed-name) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0566-reshape-the-matrix) |
+| [0844-backspace-string-compare](https://github.com/shashwat-70/leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/shashwat-70/leetcode-progress/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shashwat-70/leetcode-progress/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3925-concatenate-array-with-reverse](https://github.com/shashwat-70/leetcode-progress/tree/master/3925-concatenate-array-with-reverse) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/shashwat-70/leetcode-progress/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/shashwat-70/leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/shashwat-70/leetcode-progress/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/shashwat-70/leetcode-progress/tree/master/0925-long-pressed-name) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shashwat-70/leetcode-progress/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shashwat-70/leetcode-progress/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/shashwat-70/leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashwat-70/leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shashwat-70/leetcode-progress/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/shashwat-70/leetcode-progress/tree/master/2000-reverse-prefix-of-word) |
