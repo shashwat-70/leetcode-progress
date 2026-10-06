@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/shashwat-70/leetcode-progress/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/shashwat-70/leetcode-progress/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shashwat-70/leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0925-long-pressed-name](https://github.com/shashwat-70/leetcode-progress/tree/master/0925-long-pressed-name) |
 | [1189-maximum-number-of-balloons](https://github.com/shashwat-70/leetcode-progress/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/shashwat-70/leetcode-progress/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shashwat-70/leetcode-progress/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/shashwat-70/leetcode-progress/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/shashwat-70/leetcode-progress/tree/master/0925-long-pressed-name) |
 | [2000-reverse-prefix-of-word](https://github.com/shashwat-70/leetcode-progress/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
