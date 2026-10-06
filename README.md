@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shashwat-70/leetcode-progress/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shashwat-70/leetcode-progress/tree/master/0503-next-greater-element-ii) |
+| [0566-reshape-the-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/shashwat-70/leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/shashwat-70/leetcode-progress/tree/master/0661-image-smoother) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shashwat-70/leetcode-progress/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0566-reshape-the-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/shashwat-70/leetcode-progress/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shashwat-70/leetcode-progress/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3925-concatenate-array-with-reverse](https://github.com/shashwat-70/leetcode-progress/tree/master/3925-concatenate-array-with-reverse) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shashwat-70/leetcode-progress/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/shashwat-70/leetcode-progress/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/1380-lucky-numbers-in-a-matrix) |
