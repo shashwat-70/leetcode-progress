@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shashwat-70/leetcode-progress/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/shashwat-70/leetcode-progress/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/shashwat-70/leetcode-progress/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/shashwat-70/leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/shashwat-70/leetcode-progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashwat-70/leetcode-progress/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shashwat-70/leetcode-progress/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shashwat-70/leetcode-progress/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/shashwat-70/leetcode-progress/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/shashwat-70/leetcode-progress/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/shashwat-70/leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shashwat-70/leetcode-progress/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shashwat-70/leetcode-progress/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/shashwat-70/leetcode-progress/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/shashwat-70/leetcode-progress/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/shashwat-70/leetcode-progress/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/shashwat-70/leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/shashwat-70/leetcode-progress/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
